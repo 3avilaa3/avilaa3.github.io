@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Autobiography</title>
+</head>
+<body style="background-color:pink;">
+<p style="font: bold 48px cursive;color:purple;text-align:center;">CSIT100-12<br>Alrica Avila</p>
+<hr>
+<ul>
+<li>Hobby</li>
+<li>Hobby 2</li>
+</ul>
+<hr>
+<img src="" />
+</body>
+</html>
+<img src="" />
+Horizontal line: <hr />
+Table:
+<table align="center" border="1" width="800">
+<tr>
+<td>Place Holder</td>
+<td>Place Holder</td>
+</tr>
+<tr>
+<td>Place Holder</td>
+<td>Place Holder</td>
+</tr>
+</table>
+Link: <a href="https://montclair.edu">Montclair State University</a>
